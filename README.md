@@ -1,31 +1,45 @@
-# [Your Project Title Here]
+# Time Series Classification for Insect Sounds
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/KelvinLa/TimeSeriesPrediction_Environmental
+
+## Dataset
+
+http://www.timeseriesclassification.com/description.php?Dataset=InsectSound
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+We're comparing different classification algorithms by using them to identify diffenrent insect species and sexes from audiolike wingbeat signals.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Time Series Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Random Forest
+- **Evaluation Metric:** Accuracy
+- **Result:** 73.17% accuracy
 
-## Documentation
+## Code explanation
 
-1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
+DTW_Insects-001.ipynb : dynamic time warping
 
-## Cover Image
+DTW_Insects_final.ipynb : dynamic time warping
 
-![Project Cover Image](CoverImage/cover_image.png)
+Filtered Data.ipynb : classification on a filtered data set
+
+Project-Insects-WVD-01.ipynb : WignerVilleDistribution
+
+Timeseries.pdf : presentation
+
+average_frequencies.ipynb : averaged frequency distributions for every species
+
+different_data_representations.ipynb : data visualisation with Short Time Fourier Fransform and Wigner-Ville Transform
+
+insectsounds.ipynb : classification algorithms
+
+
+
+
