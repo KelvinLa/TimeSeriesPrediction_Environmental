@@ -25,12 +25,19 @@ Time Series Classification
 ## Code explanation
 
 DTW_Insects-001.ipynb : dynamic time warping
+
 DTW_Insects_final.ipynb : dynamic time warping
+
 Filtered Data.ipynb : classification on a filtered data set
+
 Project-Insects-WVD-01.ipynb : WignerVilleDistribution
+
 Timeseries.pdf : presentation
+
 average_frequencies.ipynb : averaged frequency distributions for every species
+
 different_data_representations.ipynb : data visualisation with Short Time Fourier Fransform and Wigner-Ville Transform
+
 insectsounds.ipynb : classification algorithms
 
 
