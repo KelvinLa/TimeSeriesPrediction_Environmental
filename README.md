@@ -22,6 +22,10 @@ Time Series Classification
 - **Evaluation Metric:** Accuracy
 - **Result:** 73.17% accuracy
 
+## Cover Image
+
+![Project Cover Image](CoverImage/InsectSound.jpg)
+
 ## Code explanation
 
 DTW_Insects-001.ipynb : dynamic time warping
