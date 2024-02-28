@@ -4,13 +4,13 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Title of Source 1]
+- **Source 1**: Flying Insect Classification with Inexpensive Sensors
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **https://link.springer.com/article/10.1007/s10905-014-9454-4**
+  - **Objective**: automatically classify insects based on sound like data 
+  - **Methods**: Bayesian classifier
+  - **Outcomes**: 79.44% accuracy for 10 classes
+  - **Relation to the Project**: original paper on this classification problem, authors are the source of the dataset used in this project
 
 - **Source 2**: An introduction to Dynamic Time Warping
 
