@@ -28,13 +28,10 @@ Time Series Classification
 
 ## Code explanation
 
-DTW_Insects-001.ipynb : dynamic time warping
 
 DTW_Insects_final.ipynb : dynamic time warping
 
 Filtered Data.ipynb : classification on a filtered data set
-
-Project-Insects-WVD-01.ipynb : WignerVilleDistribution
 
 Timeseries.pdf : presentation
 
