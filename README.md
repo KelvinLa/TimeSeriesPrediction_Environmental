@@ -38,9 +38,3 @@ Timeseries.pdf : presentation
 average_frequencies.ipynb : averaged frequency distributions for every species
 
 different_data_representations.ipynb : data visualisation with Short Time Fourier Fransform and Wigner-Ville Transform
-
-insectsounds.ipynb : classification algorithms
-
-
-
-
